@@ -1,16 +1,17 @@
 # text_to_speech_example
 
-A new Flutter project.
+A Flutter project for text to speech.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project shows how to integrate text to speech functionality inside flutter application. It also covers the necessary configuration & the basic metthods.
 
-A few resources to get you started if this is your first Flutter project:
+## Dependencies
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[flutter_tts](https://pub.dev/packages/flutter_tts)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Youtube
+
+Watch below [Youtube](https://www.youtube.com/watch?v=K8IQ0fzTJHk) video for the code walkthrough,
+
+[![Snapping Effect in Listview](https://img.youtube.com/vi/K8IQ0fzTJHk/0.jpg)](https://www.youtube.com/watch?v=K8IQ0fzTJHk)
